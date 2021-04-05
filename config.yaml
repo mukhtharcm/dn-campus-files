@@ -1,0 +1,7 @@
+baseURL : "https://dn-campus-files.onrender.com/"
+languageCode : "en-us"
+title : "Dn Campus Files"
+theme : "basic-theme"
+
+permalinks:
+        posts: "/:slug/"
